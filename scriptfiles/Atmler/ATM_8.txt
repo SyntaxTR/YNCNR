@@ -1,0 +1,7 @@
+[ATm Kayit Bilgil]
+ATMx = -2117.166503
+ATMy = -418.231597
+ATMz = 35.185020
+ATMax = 0.000000
+ATMay = 0.000000
+ATMaz = -111.799934

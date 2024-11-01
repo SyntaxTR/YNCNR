@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Burger King
+SOYx = 370.414520
+SOYy = -6.858807
+SOYz = 1001.858886
+SOYa = 300.686859
+wv = 15

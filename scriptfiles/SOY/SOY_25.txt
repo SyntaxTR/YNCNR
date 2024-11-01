@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Driving School
+SOYx = 1491.370483
+SOYy = 1306.923339
+SOYz = 1093.289062
+SOYa = 265.062561
+wv = 6

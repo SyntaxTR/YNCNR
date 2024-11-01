@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Well Stacked Pizza
+SOYx = 376.358093
+SOYy = -116.229782
+SOYz = 1001.492187
+SOYa = 176.421600
+wv = 98

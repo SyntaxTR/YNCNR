@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = GayDar Station
+SOYx = 502.548980
+SOYy = -13.339266
+SOYz = 1000.679687
+SOYa = 260.253692
+wv = 14

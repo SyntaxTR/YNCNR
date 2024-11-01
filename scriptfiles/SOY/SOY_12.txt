@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = City Hall
+SOYx = 362.077789
+SOYy = 173.717498
+SOYz = 1008.382812
+SOYa = 91.376487
+wv = 16

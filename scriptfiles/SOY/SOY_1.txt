@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Sub Urban
+SOYx = 203.764450
+SOYy = -43.996700
+SOYz = 1001.804687
+SOYa = 1.293314
+wv = 11

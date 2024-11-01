@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Barber
+SOYx = 412.310913
+SOYy = -50.002220
+SOYz = 1001.898437
+SOYa = 260.747039
+wv = 13

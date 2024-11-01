@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Jizzy
+SOYx = -2656.265380
+SOYy = 1404.015625
+SOYz = 906.273437
+SOYa = 14.106001
+wv = 17

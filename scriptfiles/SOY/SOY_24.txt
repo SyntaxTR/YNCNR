@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Train Station
+SOYx = -1973.129150
+SOYy = 117.354690
+SOYz = 27.687500
+SOYa = 183.036804
+wv = 0

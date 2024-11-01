@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Hemlock Tattoo
+SOYx = -202.979156
+SOYy = -23.675533
+SOYz = 1002.273437
+SOYa = 317.017272
+wv = 12

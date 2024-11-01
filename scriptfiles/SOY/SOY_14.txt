@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Burger Shot
+SOYx = 372.768066
+SOYy = -65.511093
+SOYz = 1001.507812
+SOYa = 0.076616
+wv = 95

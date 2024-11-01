@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Sbarro Pizza
+SOYx = 369.733551
+SOYy = -6.965533
+SOYz = 1001.858886
+SOYa = 286.329559
+wv = 97

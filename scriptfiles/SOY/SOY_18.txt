@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Volkswagen Car Center
+SOYx = -1657.915893
+SOYy = 1207.378173
+SOYz = 7.249437
+SOYa = 178.538330
+wv = 0

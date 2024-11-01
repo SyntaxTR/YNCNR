@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Defacto
+SOYx = 161.519714
+SOYy = -83.940834
+SOYz = 1001.804687
+SOYa = 356.659881
+wv = 1

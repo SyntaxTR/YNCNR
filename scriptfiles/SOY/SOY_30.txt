@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Koton
+SOYx = 161.455612
+SOYy = -83.738403
+SOYz = 1001.804687
+SOYa = 359.736816
+wv = 5

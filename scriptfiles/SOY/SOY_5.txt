@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = GYM
+SOYx = 758.829956
+SOYy = -76.100166
+SOYz = 1000.650024
+SOYa = 89.107597
+wv = 9

@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Popeyes
+SOYx = 372.792388
+SOYy = -65.786178
+SOYz = 1001.507812
+SOYa = 356.667205
+wv = 76

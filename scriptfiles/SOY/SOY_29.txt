@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = XOOmer Gaz Istasyonu
+SOYx = -25.296977
+SOYy = -90.638198
+SOYz = 1003.546875
+SOYa = 130.320114
+wv = 33

@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Zero
+SOYx = -2236.538574
+SOYy = 130.549163
+SOYz = 1035.414062
+SOYa = 181.556716
+wv = 8

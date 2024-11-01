@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Ammunation
+SOYx = 288.196075
+SOYy = -109.490447
+SOYz = 1001.515625
+SOYa = 94.289154
+wv = 18

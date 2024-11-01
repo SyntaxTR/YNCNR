@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Audi Car Center
+SOYx = -1951.568115
+SOYy = 291.999938
+SOYz = 35.468711
+SOYa = 44.963047
+wv = 0

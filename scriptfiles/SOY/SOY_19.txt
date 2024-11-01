@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Victim - Desa
+SOYx = 205.840316
+SOYy = -10.869234
+SOYz = 1001.210937
+SOYa = 85.863151
+wv = 3

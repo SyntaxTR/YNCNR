@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Binco
+SOYx = 207.303817
+SOYy = -101.466476
+SOYz = 1005.257812
+SOYa = 3.978623
+wv = 4

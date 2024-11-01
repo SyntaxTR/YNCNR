@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Misty
+SOYx = 497.499694
+SOYy = -75.493980
+SOYz = 998.757812
+SOYa = 89.561279
+wv = 7

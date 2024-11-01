@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Dider Sachs
+SOYx = 204.397613
+SOYy = -159.828399
+SOYz = 1000.523437
+SOYa = 9.561803
+wv = 94

@@ -1,0 +1,7 @@
+[SOY Kayit Bilgil]
+isim = Tuff Nut Donuts
+SOYx = 381.363525
+SOYy = -187.950149
+SOYz = 1000.632812
+SOYa = 174.490905
+wv = 96
