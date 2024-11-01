@@ -44,7 +44,7 @@ CREATE TABLE `bannedplayers`  (
   `UnbannedBy` int NULL DEFAULT NULL,
   `UnBannedTime` int NULL DEFAULT NULL,
   PRIMARY KEY (`Id`) USING BTREE
-) ENGINE = MyISAM AUTO_INCREMENT = 11931 CHARACTER SET = utf8 COLLATE = utf8_swedish_ci ROW_FORMAT = Dynamic;
+) ENGINE = MyISAM AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_swedish_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for logs
@@ -123,7 +123,7 @@ CREATE TABLE `players`  (
   `version` varchar(255) CHARACTER SET utf8 COLLATE utf8_swedish_ci NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
   UNIQUE INDEX `username`(`username`) USING BTREE
-) ENGINE = MyISAM AUTO_INCREMENT = 1082100 CHARACTER SET = utf8 COLLATE = utf8_swedish_ci ROW_FORMAT = Dynamic;
+) ENGINE = MyISAM AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_swedish_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for players_logins_and_exits
@@ -136,7 +136,7 @@ CREATE TABLE `players_logins_and_exits`  (
   `Time` datetime NULL DEFAULT current_timestamp,
   `IPAdres` varchar(16) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 238 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Table structure for vehicles
@@ -158,6 +158,6 @@ CREATE TABLE `vehicles`  (
   `Vergi` int NOT NULL DEFAULT 1549145454,
   `AracZirh` smallint NULL DEFAULT 0,
   PRIMARY KEY (`aID`) USING BTREE
-) ENGINE = MyISAM AUTO_INCREMENT = 660 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Dynamic;
+) ENGINE = MyISAM AUTO_INCREMENT = 1 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Dynamic;
 
 SET FOREIGN_KEY_CHECKS = 1;
